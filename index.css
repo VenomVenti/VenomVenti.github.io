@@ -1,0 +1,24 @@
+body {
+    position: relative;
+}
+
+#home {
+    padding-top: 50px;
+    height: 1000px;
+    color: #fff;
+    background-color: #1E88E5;
+}
+
+#about {
+    padding-top: 10px;
+    height: 1000px;
+    color: #fff;
+    background-color: #673ab7;
+}
+
+#projects {
+    padding-top: 10px;
+    height: 1000px;
+    color: #fff;
+    background-color: #ff9800;
+}
