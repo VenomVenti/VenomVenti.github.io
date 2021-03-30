@@ -47,7 +47,7 @@ body {
 }
 
 /* Fixed/sticky icon bar (vertically aligned 50% from the top of the screen) */
-.icon-bar {
+.icon-bar2 {
     position: fixed;
     right: 0%;
     top: 50%;
@@ -57,7 +57,7 @@ body {
   }
   
   /* Style the icon bar links */
-  .icon-bar a {
+  .icon-bar2 a {
     display: block;
     text-align: center;
     padding: 16px;
@@ -67,7 +67,7 @@ body {
   }
   
   /* Style the social media icons with color, if you want */
-  .icon-bar a:hover {
+  .icon-bar2 a:hover {
     background-color: #000;
   }
   
